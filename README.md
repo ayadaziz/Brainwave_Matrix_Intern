@@ -1,6 +1,6 @@
 # Brainwave_Matrix_Intern
 
-##Introduction
+**Introduction**
 
 Quantium has maintained a data collaboration with a prominent supermarket chain over the past several years, during which this supermarket has been providing transactional and customer data. Our team of employees work together to harness the power of data to drive revolutionary change that benefits us all and deliver the best results for our clients. As a data analyst at Quantium, your role involves delivering valuable data analytics and insights to assist the company in making strategic decisions.
 
